@@ -1,13 +1,11 @@
-<!-- HEADER BANNER (Đã sửa mã hóa URL an toàn) -->
+<!-- HEADER BANNER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,9,20,30&height=220&section=header&text=Hi,%20I'm%20Hanita%20(Tai%20Anh)%20👋&fontSize=38&fontColor=fff&animation=twinkling&desc=Fullstack%20Web%20•%20Minecraft%20Plugin%20Dev%20•%20AI%20%26%20Security&descSize=16&descAlignY=70" width="100%"/>
 </div>
 
-<!-- TYPING SVG (Đã sửa lỗi ký tự) -->
+<!-- TYPING SVG (Đã tối ưu hóa URL sạch 100%) -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=620&lines=Building+modern+web+apps+and+Minecraft+plugins;Exploring+Cybersecurity+and+Defensive+Systems;Diving+deep+into+AI+Engineering+and+LLMs;Currently+listening+to:+Merry+Christmas,+Mr.+Lawrence" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&lines=Fullstack+Web+Developer;Minecraft+Plugin+Creator;Cybersecurity+and+AI+Enthusiast;Listening+to+Merry+Christmas+Mr+Lawrence" alt="Typing SVG" />
 </div>
 
 <!-- CONTACT & SOCIAL BADGES -->
@@ -80,10 +78,10 @@ const hanita = {
 ### 📊 Hoạt Động GitHub (GitHub Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taianh20102011&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ff7b72" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taianh20102011&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff" />
-  <br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=taianh20102011&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ff7b72" />
+  <br/><br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=taianh20102011&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff" />
+  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=taianh20102011&theme=tokyonight&hide_border=true&background=0d1117&ring=00f0ff&fire=ff7b72&currStreakLabel=00f0ff" />
 </div>
 
@@ -92,11 +90,8 @@ const hanita = {
 ### 🐍 GitHub Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taianh20102011/taianh20102011/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/taianh20102011/taianh20102011/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution's snake animation" src="https://raw.githubusercontent.com/taianh20102011/taianh20102011/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/taianh20102011/taianh20102011/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake Dark" width="100%"/>
+  <img src="https://raw.githubusercontent.com/taianh20102011/taianh20102011/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake Light" width="100%"/>
 </div>
 
 ---

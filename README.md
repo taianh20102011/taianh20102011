@@ -19,7 +19,7 @@
 
 ---
 
-### 🛠️ Kỹ Năng & Công Nghệ
+### 🛠️ Kỹ Năng & Công Nghệ / Skills & Technology
 
 <div align="center">
   <p><b>Web & App Development</b></p>

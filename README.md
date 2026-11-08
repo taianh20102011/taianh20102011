@@ -1,12 +1,12 @@
-<!-- HEADER BANNER -->
+<!-- HEADER BANNER (Đã sửa mã hóa URL an toàn) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,9,20,30&height=220&section=header&text=Hi,%20I'm%20Hanita%20(Tài%20Anh)%20👋&fontSize=38&fontColor=fff&animation=twinkling&desc=Fullstack%20Web%20•%20Minecraft%20Plugin%20Dev%20•%20Aspiring%20AI%20%26%20Security%20Engineer&descSize=16&descAlignY=70" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,9,20,30&height=220&section=header&text=Hi,%20I'm%20Hanita%20(Tai%20Anh)%20👋&fontSize=38&fontColor=fff&animation=twinkling&desc=Fullstack%20Web%20•%20Minecraft%20Plugin%20Dev%20•%20AI%20%26%20Security&descSize=16&descAlignY=70" width="100%"/>
 </div>
 
-<!-- TYPING SVG -->
+<!-- TYPING SVG (Đã sửa lỗi ký tự) -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=620&lines=Building+modern+web+apps+%26+cool+Minecraft+plugins;Exploring+Cybersecurity+%26+Ethical+Hacking;Diving+deep+into+AI+Engineering+%26+LLMs;Currently+listening+to:+Merry+Christmas,+Mr.+Lawrence+🎵" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=620&lines=Building+modern+web+apps+and+Minecraft+plugins;Exploring+Cybersecurity+and+Defensive+Systems;Diving+deep+into+AI+Engineering+and+LLMs;Currently+listening+to:+Merry+Christmas,+Mr.+Lawrence" alt="Typing SVG" />
   </a>
 </div>
 
@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Email-phamngoctaianh6@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://open.spotify.com/search/Merry%20Christmas%20Mr%20Lawrence" target="_blank">
-    <img src="https://img.shields.io/badge/Vibe-Merry%20Christmas%20Mr.%20Lawrence-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spotify-Merry%20Christmas%20Mr.%20Lawrence-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
 
@@ -55,7 +55,7 @@ const hanita = {
 
 ---
 
-### 🛠️ Kỹ Năng & Công Nghệ Đang Dùng / Đang Học
+### 🛠️ Kỹ Năng & Công Nghệ
 
 <div align="center">
   <p><b>Web & App Development</b></p>
@@ -67,14 +67,12 @@ const hanita = {
 
 ---
 
-### 🎧 On My Playlist
+### 🎧 Favorite Track
 
 <div align="center">
-  <!-- Aesthetic Music Card -->
   <a href="https://open.spotify.com/search/Merry%20Christmas%20Mr%20Lawrence" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=spotify&count=1" alt="Spotify" onerror="this.style.display='none'" />
+    <img src="https://img.shields.io/badge/Now%20Playing-Merry%20Christmas%20Mr.%20Lawrence%20%7C%20Ryuichi%20Sakamoto-1DB954?style=for-the-badge&logo=spotify&logoColor=white" height="38"/>
   </a>
-  <p><i>🎵 Favorite Melody: <b>Merry Christmas, Mr. Lawrence</b> — Ryuichi Sakamoto</i></p>
 </div>
 
 ---
@@ -82,18 +80,11 @@ const hanita = {
 ### 📊 Hoạt Động GitHub (GitHub Stats)
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="175" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ff7b72" />
-      </td>
-      <td>
-        <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff" />
-      </td>
-    </tr>
-  </table>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00f0ff&fire=ff7b72&currStreakLabel=00f0ff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=taianh20102011&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ff7b72" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taianh20102011&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taianh20102011&theme=tokyonight&hide_border=true&background=0d1117&ring=00f0ff&fire=ff7b72&currStreakLabel=00f0ff" />
 </div>
 
 ---
@@ -102,9 +93,9 @@ const hanita = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution's snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taianh20102011/taianh20102011/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/taianh20102011/taianh20102011/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution's snake animation" src="https://raw.githubusercontent.com/taianh20102011/taianh20102011/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 

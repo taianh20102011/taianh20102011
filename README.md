@@ -28,13 +28,3 @@
   <p><b>Minecraft Plugins, AI & Security</b></p>
   <img src="https://skillicons.dev/icons?i=java,python,linux,bash,docker,git,github,postgres,mongodb,postman" />
 </div>
-
----
-
-### 🎧 Favorite Track
-
-<div align="center">
-  <a href="https://open.spotify.com/search/Merry%20Christmas%20Mr%20Lawrence" target="_blank">
-    <img src="https://img.shields.io/badge/Now%20Playing-Merry%20Christmas%20Mr.%20Lawrence%20%7C%20Ryuichi%20Sakamoto-1DB954?style=for-the-badge&logo=spotify&logoColor=white" height="38"/>
-  </a>
-</div>

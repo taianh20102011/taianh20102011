@@ -1,9 +1,12 @@
-<!-- HEADER BANNER -->
+<!-- HEADER SECTION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,9,20,30&height=220&section=header&text=Hi,%20I'm%20Hanita%20(Tai%20Anh)%20👋&fontSize=38&fontColor=fff&animation=twinkling&desc=Fullstack%20Web%20•%20Minecraft%20Plugin%20Dev%20•%20AI%20%26%20Security&descSize=16&descAlignY=70" width="100%"/>
+  <h1>Hi, I'm Hanita (Tài Anh) 👋</h1>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=taianh20102011&color=70a5fd&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  </p>
 </div>
 
-<!-- TYPING SVG (Đã tối ưu hóa URL sạch 100%) -->
+<!-- TYPING SVG INTRO -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&lines=Fullstack+Web+Developer;Minecraft+Plugin+Creator;Cybersecurity+and+AI+Enthusiast;Listening+to+Merry+Christmas+Mr+Lawrence" alt="Typing SVG" />
 </div>
@@ -47,9 +50,10 @@ const hanita = {
 
 | Dự án | Thể loại | Công nghệ / Nền tảng | Liên kết |
 | :--- | :--- | :--- | :--- |
-| **⚔️ Tu Tiên Plugin** | Minecraft Plugin & Web | Java, Paper/Spigot, Web | [Website Demo](https://tutien-website.vercel.app) • [SpigotMC Release](https://www.spigotmc.org/resources/tu-ti%C3%AAn.134773/) |
+| **⚔️ Tu Tiên Plugin** | Minecraft Plugin & Web | Java, Paper/Spigot, Web | [Website Demo](https://tutien-website.vercel.app) • [SpigotMC](https://www.spigotmc.org/resources/tu-ti%C3%AAn.134773/) |
 | **🌐 Anhanh.vn** | Web Application | Web Fullstack | [Truy cập anhanh.vn](https://anhanh.vn) |
-| **📱 Mobile & Security Labs** | Mobile Apps & Research | Flutter / Dart, Python, Linux | *Đang cập nhật thêm...* |
+| **🛡️ BackDoorGuard** | Security Tool | Java, Security Analysis | [GitHub Repo](https://github.com/taianh20102011/BackDoorGuard) |
+| **🪝 HookForge** | Webhook & API Tool | Java, Integration | [GitHub Repo](https://github.com/taianh20102011/HookForge) |
 
 ---
 
@@ -78,11 +82,16 @@ const hanita = {
 ### 📊 Hoạt Động GitHub (GitHub Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=taianh20102011&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ff7b72" />
+  <!-- Profile Summary Card: 889 contributions & biểu đồ hoạt động -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taianh20102011&theme=tokyonight" width="100%" />
   <br/><br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=taianh20102011&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff" />
+  <!-- Repos per Language -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taianh20102011&theme=tokyonight" width="49%" />
+  <!-- Most Commit Language -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taianh20102011&theme=tokyonight" width="49%" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taianh20102011&theme=tokyonight&hide_border=true&background=0d1117&ring=00f0ff&fire=ff7b72&currStreakLabel=00f0ff" />
+  <!-- Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taianh20102011&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=ff7b72&currStreakLabel=70a5fd" width="100%" />
 </div>
 
 ---
